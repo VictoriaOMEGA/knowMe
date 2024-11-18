@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VickyOme
 - 👀 I’m interested in TECHNOLOGY!
-- 🌱 I’m currently learning JAVAAAA
-- 💞️ I’m looking to collaborate on IDK
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on any game dev projects
 - 📫 How to reach me victoriaokgondwe@gmail.com
-- 😄 Pronouns: aaahh zachamba zimenecho ndine she/her
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 420!
 
 <!---
